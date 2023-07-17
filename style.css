@@ -1,0 +1,19 @@
+  body
+  {
+    color: rgb(142, 8, 252);
+    background:linear-gradient(45deg,#000000,#393b393d,#ffffff);
+  }
+  .heading
+  {
+   text-shadow: 0px 0px 8px rgb(41, 54, 3);
+  }
+  #camera 
+  {
+    border: 2px dashed rgb(155, 11, 136);
+    width: 350px;
+    height: 300px; 
+  }
+  .nameOfObjects, #resultObjectName  , #resultObjectAccuracy
+  {
+    color: rgb(250, 250, 250);
+  }
